@@ -58,7 +58,7 @@
     }
 
 }
-@media screen and (max-width: 400px ){
+@media screen and (max-width: 500px ){
     .navlist li{
         padding-left: 0;
         margin-left: 0;
